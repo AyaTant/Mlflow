@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/d8c75b17115a442c9372e40951d247bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c75b17115a442c9372e40951d247bc
+run_name: luxuriant-swan-464
+run_uuid: d8c75b17115a442c9372e40951d247bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774549412518
+status: 1
+tags: []
+user_id: ayata

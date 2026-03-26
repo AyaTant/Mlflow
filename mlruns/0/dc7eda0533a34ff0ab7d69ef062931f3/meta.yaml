@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/dc7eda0533a34ff0ab7d69ef062931f3/artifacts
+end_time: 1774548167970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc7eda0533a34ff0ab7d69ef062931f3
+run_name: magnificent-kit-711
+run_uuid: dc7eda0533a34ff0ab7d69ef062931f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774548156427
+status: 3
+tags: []
+user_id: ayata

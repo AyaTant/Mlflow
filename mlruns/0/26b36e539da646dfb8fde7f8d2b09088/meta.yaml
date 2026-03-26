@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/26b36e539da646dfb8fde7f8d2b09088/artifacts
+end_time: 1774547965140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26b36e539da646dfb8fde7f8d2b09088
+run_name: flawless-crab-491
+run_uuid: 26b36e539da646dfb8fde7f8d2b09088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774547931106
+status: 3
+tags: []
+user_id: ayata
