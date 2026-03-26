@@ -1,0 +1,12 @@
+# Ignore virtual environments
+mlflow-project/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / IDE
+.vscode/
+.DS_Store
